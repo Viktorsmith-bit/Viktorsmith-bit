@@ -1,5 +1,5 @@
 - 👋 Hola, soy @Viktorsmith-bit
-- 👀 Estoy interesado en la programación científica y desarrollo web.
+- 👀 Estoy interesado en la investigación en glaciares, protección de de áreas naturales protegidas, programación científica (ciencia de datos), redes neuronales (deep learning)y en el desarrollo de aplicaciones web.
 - 🌱 Actualmente estoy aprendiendo redes neuronales con Scikit-Learn, Tensorflow 2.0 y Keras.
 - 💞️ Trabajo como consultor en gestión de datos ambientales y geoespaciales en INAIGEM.
 - 📫 Puedes contactarme a través de mi perfil de Linkedin.
